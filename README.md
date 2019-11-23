@@ -1,2 +1,0 @@
-# pizzabook
-Created with CodeSandbox
